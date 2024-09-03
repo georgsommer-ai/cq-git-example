@@ -67,7 +67,7 @@ marp, dillinger.io,
 
 git mv georg.txt georg.md
 
-# Warning:  
+# Warning:  mv not the same because you delete the old file
 mv georg.txt georg.md
 
 
